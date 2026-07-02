@@ -151,7 +151,7 @@ a { color: inherit; text-decoration: none; }
   display: grid; place-items: center;
 }
 .photo-frame img { width: 100%; height: 100%; object-fit: cover; }
-.photo-fallback { display: none; color: rgba(255,255,255,.85); font-weight: 600; padding: 20px; text-align: center; }
+.photo-fallback { display: none; color: rgba(255,255,255,.9); font-weight: 800; font-size: 72px; letter-spacing: 2px; padding: 20px; text-align: center; }
 .photo-frame.photo-placeholder .photo-fallback { display: block; }
 
 /* ============ STATISTIKA ============ */
